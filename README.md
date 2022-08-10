@@ -3,4 +3,4 @@
 ### I created 4 pages for user interfacing as home , courses , about and contact us .
 ### The website provides courses and online training from expertise . 
 ### The articles are also get published in every 3 -4 days which give unique point of view to website users .
-### website link is : https://github.com/Mayuri-cell/FRT.git
+### Website link is : https://white-rock-08cc91810.1.azurestaticapps.net/
