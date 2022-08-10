@@ -3,6 +3,8 @@
 ### I created 4 pages for user interfacing as home , courses , about and contact us .
 ### The website provides courses and online training from expertise . 
 ### The articles are also get published in every 3 -4 days which give unique point of view to website users .
+### I have used Microsoft azure service that is static web app and visual studio code to perform the deployment .
+### The below are the scrrenshot , video of the same .
 ### Website link is : https://white-rock-08cc91810.1.azurestaticapps.net/
 
 ### Here , is the video link :
