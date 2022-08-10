@@ -18,6 +18,11 @@
 ### Courses
 ![courses](https://user-images.githubusercontent.com/80411472/184002445-2c7579f8-c2ed-4d4d-b896-59e0c6e8cd88.png)
 
+![Screenshot 2022-08-11 011505](https://user-images.githubusercontent.com/80411472/184006526-5179723f-936e-4b43-ba8a-c14b1e76e132.png)
+
+![Screenshot 2022-08-11 011529](https://user-images.githubusercontent.com/80411472/184006538-38c9cd86-7060-4c40-b9b8-ba13dff4abab.png)
+
+
 ### Blogs
 ![blogs](https://user-images.githubusercontent.com/80411472/184002428-9c81a4e3-b97c-4b90-b56c-67c1de2309d0.png)
 
