@@ -1,4 +1,4 @@
-### Here , I have created a ed tech web apps  
+### Here , I have created named crazy ed tech web apps  
 ### I have created a website for people to do online courses in technical fields . Students can find these courses at cheaper rates .
 ### I created 4 pages for user interfacing as home , courses , about and contact us .
 ### The website provides courses and online training from expertise . 
