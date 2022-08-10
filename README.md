@@ -5,6 +5,12 @@
 ### The articles are also get published in every 3 -4 days which give unique point of view to website users .
 ### Website link is : https://white-rock-08cc91810.1.azurestaticapps.net/
 
+### Here , is the video link :
+
+
+https://user-images.githubusercontent.com/80411472/184008368-05c7c665-1297-46f4-9cd1-0a90a2d91f36.mp4
+
+
 
 ### Home Page
 ![Screenshot 2022-08-11 004948](https://user-images.githubusercontent.com/80411472/184002449-cfa317f4-71bb-4f0a-8621-df29ee013584.png)
